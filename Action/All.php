@@ -11,7 +11,6 @@ use App\Action\Masternodes;
 use App\Action\Blockchain;
 use App\Action\Volume;
 use App\Action\Marketcap;
-use App\Action\All;
 
 class All
 {
