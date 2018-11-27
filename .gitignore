@@ -1,0 +1,4 @@
+*.bak
+composer.phar
+vendor/
+composer.lock
