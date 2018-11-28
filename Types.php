@@ -73,15 +73,6 @@ class Types
     }
 
     /**
-     * @param \GraphQL\Type\Definition\Type $type
-     * @return \GraphQL\Type\Definition\ListOfType
-     */
-    public static function listOf($type)
-    {
-        return Type::listOf($type);
-    }
-
-    /**
      * @return ResultType
      */
     public static function result()
