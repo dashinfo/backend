@@ -2,6 +2,7 @@
 
 return [
     'settings' => [
+        'default_url' => 'https://dashinfo.net/',
         'displayErrorDetails' => true,
         'determineRouteBeforeAppMiddleware' => true,
         'doctrine' => [

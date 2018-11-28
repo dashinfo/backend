@@ -21,8 +21,6 @@ class Doctrine implements ServiceProviderInterface
                 $cnt['settings']['doctrine']['dev_mode']
             );
 
-            AnnotationRegistry::registerLoader('class_exists');
-
             $config->setMetadataDriverImpl(
                 new AnnotationDriver(
                     new AnnotationReader,

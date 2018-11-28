@@ -27,7 +27,6 @@ class Volume
             ->getQuery()
             ->getOneOrNullResult();
 
-
         return $result['val'];
     }
 
