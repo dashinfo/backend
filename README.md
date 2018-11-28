@@ -21,7 +21,7 @@ If you need special api or something else please contact me at support@dashinfo.
     * [/v1.0/marketcap](#v10marketcap)
     * [/v1.0/marketcap/{eur|usd|btc}](#v10marketcapeurusdbtc)
 * [GraphQL](#graphql)
-    * [General information](#general-information)
+    * [General information](#general-information-1)
     * [Full scheme](#full-scheme)
 
 ## Rest-api
